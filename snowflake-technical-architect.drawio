@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="3">
   <diagram name="Snowflake - Technical Architect - Interview" id="OTi28mOu6EBCC-FkJp_j">
     <mxGraphModel dx="2082" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -740,6 +740,20 @@
         </mxCell>
         <mxCell id="6NnZXVmCaZTh6faLaKSS-40" value="SSIS / Informatica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0;fontFamily=Verdana;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="521" y="481" width="69" height="29" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fEOnXzATfixe07FhWINI" name="CDC-STREAMS-TASKS">
+    <mxGraphModel dx="1232" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v7mNgL-6twnlfNNL1Wki-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:700/1*GhTO6X3b6QWIyF-zN3M6gQ.png;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="700" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="v7mNgL-6twnlfNNL1Wki-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:700/1*IAns0qQVBCUBdvWx17b31Q.png;" vertex="1" parent="1">
+          <mxGeometry x="60" y="560" width="700" height="232" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
