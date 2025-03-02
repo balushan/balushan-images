@@ -260,7 +260,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="np49BKQSsH0sgA_MXHX4-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2023/11/20/Figure-1.-Unified-API-architecture.png;" vertex="1" parent="1">
-          <mxGeometry x="29" y="20" width="809.39" height="460" as="geometry" />
+          <mxGeometry x="29" y="60" width="809.39" height="460" as="geometry" />
         </mxCell>
         <UserObject label="https://aws.amazon.com/blogs/architecture/how-sonar-built-a-unified-api-on-aws/" link="https://aws.amazon.com/blogs/architecture/how-sonar-built-a-unified-api-on-aws/" id="np49BKQSsH0sgA_MXHX4-2">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
